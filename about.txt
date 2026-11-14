@@ -5,3 +5,4 @@ My Learning Goals:
 1. Learn HTML and CSS.
 2. Understand Git and GitHub.
 3. Improve my web development skills.
+4. learn how to control and manage projects using github
